@@ -50,11 +50,13 @@ simple-react-agent/
 │   ├── prompt.py
 │   ├── parser.py
 │   └── llm_client.py
+│
 ├── tools/
 │   ├── base.py
 │   ├── calculator.py
-│   ├── search.py
-│   ├── knowledge.py
+│   ├── weather_tool.py
+│   ├── date_tool.py
+│   ├── adress_tool.py
 │   └── registry.py
 ├── evaluation/
 │   ├── evaluator.py
