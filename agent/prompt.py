@@ -48,7 +48,7 @@ date=2026-07-10, weekday=Wednesday
 
 Thought: 我已经知道明天是2026-07-10，但是用户没有提供具体位置，应该是他所在的位置，我需要知道具体是哪里。
 Action: adress_tool
-Action Input: {"city": "上海"}
+Action Input: {"city": ""}
 
 Observation:
 当前位置（通过IP定位）
